@@ -12,7 +12,6 @@ excerpt: >-
 date: '2019-11-28'
 thumb_img_path: images/DSCF0197.JPG
 thumb_img_alt: Deux abeilles sur une marguerite
-content_img_path: images/10.jpg
 seo:
   title: Fox Village In Japan
   description: >-
