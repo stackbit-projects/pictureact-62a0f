@@ -58,5 +58,3 @@ seo:
       relativeUrl: true
 layout: contact
 ---
-
-To get in touch fill the form below.
