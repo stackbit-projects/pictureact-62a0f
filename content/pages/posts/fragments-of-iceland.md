@@ -2,7 +2,7 @@
 title: Au nom de la rose
 excerpt: 'La pluie donne tout le charme à cette rose, qui cherche à s''enfuir. '
 date: '2018-01-09'
-thumb_img_path: images/7.jpg
+thumb_img_path: images/DSCF0177.JPG
 thumb_img_alt: Roses
 hide_header: true
 seo:
