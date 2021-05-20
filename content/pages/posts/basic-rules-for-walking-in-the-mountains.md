@@ -1,6 +1,6 @@
 ---
 title: Le temps d'une rose
-excerpt: 'Le temps d''un instant, la neige recouvre '
+excerpt: 'Le temps d''un instant, la neige recouvre chaque parcelle '
 date: '2019-11-28'
 thumb_img_path: images/DSCF0032.JPG
 thumb_img_alt: La rose sous son manteau blanc
