@@ -2,7 +2,7 @@
 title: Le temps d'une rose
 excerpt: >-
   Le temps d'un instant, la neige recouvre chaque partie de cette rose. Le bout
-  des feuilles, le bout des épines, prennent froid mais prennent un visuel
+  des feuilles, le bout des épines prennent froid mais prennent un visuel
   différent et charmant. 
 date: '2019-11-28'
 thumb_img_path: images/DSCF0032.JPG
