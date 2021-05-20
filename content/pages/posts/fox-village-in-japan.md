@@ -4,11 +4,8 @@ subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
 excerpt: >-
-  Apparently, Japan is covered in magical and irresistibly cute animal
-  sanctuaries. The Shrines of Ise have been celebrated as the prototype of
-  Japanese architecture. Largely of wood, traditional housing and many temple
-  buildings see the use of tatami mats and sliding doors that break down the
-  distinction between rooms and indoor and outdoor space.
+  Les abeilles sont fascinantes. Leur manière de voler, de butiner ou simplement
+  travailler à deux sur une fleur, est enrichissant.
 date: '2019-11-28'
 thumb_img_path: images/DSCF0197.JPG
 thumb_img_alt: Deux abeilles sur une marguerite
