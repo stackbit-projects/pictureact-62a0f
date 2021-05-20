@@ -1,6 +1,6 @@
 ---
 title: Chat alors !
-excerpt: 'Je prends la pose (ou plutôt je '
+excerpt: 'Je prends la pose (Hum... n''est-ce pas un oiseau qu''il voit au loin ?) '
 date: '2018-01-23'
 thumb_img_path: images/DSCF0269.JPG
 seo:
