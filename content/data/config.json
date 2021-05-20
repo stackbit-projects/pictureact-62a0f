@@ -20,11 +20,6 @@
                 "style": "link"
             },
             {
-                "label": "Photographies",
-                "url": "/style-guide",
-                "style": "link"
-            },
-            {
                 "label": "Contacts",
                 "url": "/contact",
                 "style": "link"
