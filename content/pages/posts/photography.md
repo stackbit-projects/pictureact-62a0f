@@ -2,7 +2,7 @@
 title: Femme au regard vide
 excerpt: >-
   Cette femme était figée sur un mur, dans un passage de la foule ambulante. Son
-  regard,
+  regard, oblige le passant à marquer un arrêt
 date: '2018-01-15'
 thumb_img_path: images/DSCF0267.JPG
 thumb_img_alt: A man looking at a beautiful lake and mountains landscape in Switzerland
