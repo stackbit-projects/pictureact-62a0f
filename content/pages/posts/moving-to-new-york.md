@@ -1,6 +1,5 @@
 ---
 title: 'C''hat alors '
-subtitle: A cautionary tale about life in New York
 excerpt: >-
   The City of New York, usually called either New York City (NYC) or simply New
   York (NY), is the most populous city in the United States. With an estimated
