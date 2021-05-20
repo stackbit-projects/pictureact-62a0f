@@ -1,8 +1,5 @@
 ---
 title: La création de l'amour ou du miel ?
-subtitle: >-
-  Apparently, Japan is covered in magical and irresistibly cute animal
-  sanctuaries.
 excerpt: >-
   Les abeilles sont fascinantes. Leur manière de voler, de butiner ou simplement
   travailler à deux sur une fleur, est enrichissant.
