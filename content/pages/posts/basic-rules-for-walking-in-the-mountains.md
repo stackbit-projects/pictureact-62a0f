@@ -7,7 +7,6 @@ excerpt: >-
 date: '2019-11-28'
 thumb_img_path: images/DSCF0032.JPG
 thumb_img_alt: La rose sous son manteau blanc
-content_img_path: images/1.jpg
 seo:
   title: Basic Rules For Walking In The Mountains
   description: >-
