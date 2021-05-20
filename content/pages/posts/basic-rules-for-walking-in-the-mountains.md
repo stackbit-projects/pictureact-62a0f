@@ -1,9 +1,6 @@
 ---
 title: Le temps d'une rose
-excerpt: >-
-  Hiking is sometimes referred to as such. This specifically refers to difficult
-  walking through dense forest, undergrowth, or bushes, where forward progress
-  requires pushing vegetation aside.
+excerpt: Le temps d
 date: '2019-11-28'
 thumb_img_path: images/DSCF0032.JPG
 thumb_img_alt: La rose sous son manteau blanc
