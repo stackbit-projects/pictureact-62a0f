@@ -1,6 +1,6 @@
 ---
 title: 'A propos de moi '
-subtitle: This is a short page about me and my work
+subtitle: Vous allez pouvoir en découvrir davantage sur ma passion
 img_path: images/ultra-mars.jpg
 seo:
   title: About Me
