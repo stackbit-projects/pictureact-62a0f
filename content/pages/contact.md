@@ -29,7 +29,7 @@ form_fields:
   - input_type: checkbox
     name: consent
     label: J'ai pris connaissance des politiques de sécurité et les accepte
-submit_label: Send Message
+submit_label: Envoyer
 seo:
   title: Get in Touch
   description: This is the contact page
