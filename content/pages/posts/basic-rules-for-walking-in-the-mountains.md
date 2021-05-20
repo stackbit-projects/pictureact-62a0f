@@ -6,7 +6,7 @@ excerpt: >-
   requires pushing vegetation aside.
 date: '2019-11-28'
 thumb_img_path: images/DSCF0032.JPG
-thumb_img_alt: La rose prends la pose
+thumb_img_alt: La rose s
 content_img_path: images/1.jpg
 seo:
   title: Basic Rules For Walking In The Mountains
