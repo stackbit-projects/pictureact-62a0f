@@ -1,10 +1,6 @@
 ---
 title: Femme au regard vide
-excerpt: >-
-  Photography is the science, art and practice of creating durable images by
-  recording light or other electromagnetic radiation, either electronically by
-  means of an image sensor, or chemically by means of a light-sensitive material
-  such as photographic film.
+excerpt: 'Cette femme était '
 date: '2018-01-15'
 thumb_img_path: images/DSCF0267.JPG
 thumb_img_alt: A man looking at a beautiful lake and mountains landscape in Switzerland
