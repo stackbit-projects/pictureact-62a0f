@@ -1,9 +1,6 @@
 ---
 title: 'A fleur de peau '
 subtitle: Le temps d'une pause
-excerpt: >-
-  The way I spend time out in nature can affect how much my physical and mental
-  health will recharge and how I benefit from it.
 date: '2019-03-24'
 thumb_img_path: images/DSCF0147.JPG
 thumb_img_alt: Le temps d'une pause
